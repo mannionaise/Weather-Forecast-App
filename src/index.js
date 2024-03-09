@@ -72,12 +72,12 @@ function displayForecast(response) {
       `
       <div class="weather-forecast-day">
         <div class="weather-forecast-date">${day}</div>
-        <div class="weather-forecast-icon">🌤️</div>
+        <div class="weather-forecast-icon"></div>
         <div class="weather-forecast-temperatures">
           <div class="weather-forecast-temperature">
-            <strong>15º</strong>
+            <strong></strong>
           </div>
-          <div class="weather-forecast-temperature">9º</div>
+          <div class="weather-forecast-temperature"></div>
         </div>
       </div>
     `;
